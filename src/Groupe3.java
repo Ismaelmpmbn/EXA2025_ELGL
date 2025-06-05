@@ -1,9 +1,10 @@
 public class Groupe3 {
 
 
-    private String IsmaelYosef;
+    private String IsmaelYosefArdita;
 
     public Groupe3(java.lang.String ismaelYosef) {
         IsmaelYosef = ismaelYosef;
     }
+
 }
